@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Squared
+Comment=A dark theme with squared borders
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Squared
+IconTheme=Papirus-Dark
+ButtonLayout=:

@@ -1,0 +1,4 @@
+node_modules/
+_gnome-shell/
+.sass-cache/
+*.css.map
