@@ -1,4 +1,4 @@
-# Squared GTK theme
+# Valtameri GTK theme
 
 Initially a clone of [EliverLara's Squared gtk-theme](https://github.com/EliverLara/Squared), it aims to be a tailored theme for my systems.
 
@@ -9,11 +9,11 @@ It supports:
 
 ### Install
 
-Clone this repository and link the Squared folder into yours themes folder:
+Clone this repository and link the Valtameri folder into yours themes folder:
 
 ```sh
 mkdir -p ~/.local/share/themes
-ln -s /path/to/repository/Squared ~/.local/share/themes/
+ln -s /path/to/repository/Valtameri ~/.local/share/themes/
 ```
 
 
@@ -22,8 +22,8 @@ ln -s /path/to/repository/Squared ~/.local/share/themes/
 To activate the theme in Gnome, run the following commands:
 
 ```sh
-gsettings set org.gnome.desktop.interface gtk-theme "Squared"
-gsettings set org.gnome.desktop.wm.preferences theme "Squared"
+gsettings set org.gnome.desktop.interface gtk-theme "Valtameri"
+gsettings set org.gnome.desktop.wm.preferences theme "Valtameri"
 ```
 
 ### Gnome

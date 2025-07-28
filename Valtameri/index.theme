@@ -1,10 +1,10 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Squared
+Name=Valtameri
 Comment=A dark theme with squared borders
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Squared
+GtkTheme=Valtameri
 IconTheme=Papirus-Dark
 ButtonLayout=:

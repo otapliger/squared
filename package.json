@@ -1,17 +1,17 @@
 {
-  "name": "squared",
+  "name": "valtameri",
   "version": "1.0.0",
   "description": "A dark theme with squared borders",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/otapliger/Squared.git"
+    "url": "git+https://github.com/otapliger/Valtameri.git"
   },
   "keywords": [],
   "author": "",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/otapliger/Squared",
+  "homepage": "https://github.com/otapliger/Valtameri",
   "dependencies": {
     "gulp": "^4.0.0",
     "gulp-exec": "^2.1.3",
